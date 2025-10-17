@@ -1,74 +1,56 @@
-# 👋 Hi, I'm Stephen Dahl  
+<!--
+  Stephen Dahl - Professional GitHub Profile
+  Author: Stephen Dahl | Fukura Capital Ltd
+-->
 
-A versatile business leader and IT consultant with over 25 years of experience in management, business development, and technical IT operations.  
-I currently run my own projects through **Fukura Capital Ltd**, focusing on **AI infrastructure, virtualisation, and secure web hosting** on advanced Dell PowerEdge servers.
+# 👋 Hi, I'm **Stephen Dahl**
 
-I combine deep hands-on hardware knowledge with strategic business insight and a strong passion for open-source technologies, automation, and decentralised AI systems.
+> 💼 IT Consultant | 🧠 AI Infrastructure Engineer | ⚙️ Systems & Automation Specialist  
 
----
+A seasoned business leader and IT consultant with 25+ years of experience in management, business development, and technical operations.  
+Currently running **Fukura Capital Ltd (London)**, where I build and manage **AI-ready, cluster-based server systems** using Dell PowerEdge hardware.  
 
-## 🔭 Current Focus
-- Building and maintaining a **cluster-based server environment** (Dell R730/R740)
-- **AI and machine learning** using open-source platforms (LLaMA, KoboldCpp, AutoGPT)
-- **Virtualisation and containerisation** (Proxmox, Docker)
-- **Network and security management** (UniFi, VLAN, firewalls)
-- **Web hosting and CMS platforms** (WordPress, Nginx, certbot/Let’s Encrypt)
-- **Automated backup and RAID administration**
-- Integrating **Python-based monitoring and automation** for local AI solutions
+I combine hands-on expertise in hardware and networks with a strategic mindset — focused on **open-source AI**, **automation**, and **decentralised infrastructure**.
 
 ---
 
-## 🧰 Technical Skills
-| Area | Level |
-|------|--------|
-| Proxmox VE | Advanced |
-| Dell PowerEdge R730/R740 | Advanced |
-| Open-source AI (LLaMA, GPTQ, KoboldCpp) | Advanced |
-| UniFi Switch & Firewall | Advanced |
-| Ubuntu Server / Linux | Advanced |
-| WordPress / Mailchimp | Advanced |
-| Nginx / Apache / SSL | Experienced |
-| Python | Intermediate |
-| Windows Server | Experienced |
-| UiPath | Experienced |
-| Flutter / Firebase | Beginner |
+## 🚀 **Current Focus Areas**
+
+🌐 Building and maintaining a **cluster-based infrastructure** (Dell R730/R740)  
+🧩 Developing **open-source AI solutions** (LLaMA, KoboldCpp, AutoGPT)  
+🐋 Managing **virtualisation and containers** (Proxmox, Docker)  
+🔒 Designing **secure networks and VLAN systems** (UniFi, firewalls)  
+🖥️ Hosting **WordPress & Magento 2** sites with full SSL and backup automation  
+🧠 Integrating **Python tools** for monitoring, data flow, and AI automation  
 
 ---
 
-## 💼 Experience
-**Owner & Director – Fukura Capital Ltd (London, 2023–present)**  
-Founder of a UK-based technology company providing AI infrastructure, consulting, and managed hosting services.  
-Responsible for private cloud solutions, clustered server operations, client support, and strategic technology development.
+## 🧰 **Technical Skills**
 
-**Previous Roles:**  
-Project Manager and IT Manager in logistics, technology, and facility management sectors.  
-Strong background in system integration, network operations, and technical leadership.
-
----
-
-## 📚 Articles and Documentation
-I regularly write technical notes and guides on:
-- Running AI workloads on local hardware  
-- Server optimisation and virtualisation  
-- Data security and decentralised infrastructure  
-
-📖 Articles will soon be available here: [Articles Repository](#)
+| Category | Technologies | Level |
+|-----------|---------------|--------|
+| **Virtualisation** | Proxmox VE, Docker | Advanced |
+| **Hardware** | Dell PowerEdge R730/R740 | Advanced |
+| **AI & ML** | LLaMA, GPTQ, KoboldCpp | Advanced |
+| **Networking** | UniFi, VLAN, Firewall Config | Advanced |
+| **OS & Servers** | Ubuntu Server, Linux, Windows Server | Advanced |
+| **Web & Hosting** | Nginx, Apache, SSL, WordPress, Mailchimp | Experienced |
+| **Programming** | Python, Bash, UiPath | Intermediate |
+| **Other Tools** | Cloudflare, Flutter, Firebase | Various |
 
 ---
 
-## 🌐 Languages
-- **English** 🇬🇧 – Native level  
-- **Danish** 🇩🇰 – Fluent  
-- **German** 🇩🇪 – Advanced  
+## 💼 **Professional Experience**
 
----
+### 🏢 **Fukura Capital Ltd**  
+**Owner & Director (2023 – Present)**  
+London, United Kingdom  
+- Founder of a private tech company focused on AI infrastructure and open-source innovation.  
+- Operates high-performance servers for research, hosting, and secure data handling.  
+- Provides consulting in AI system design, WordPress hosting, and automation.  
+- Responsible for strategy, business partnerships, and technology leadership.  
 
-## 📫 Contact
-📧 **stephendahl001@gmail.com**  
-📍 **Holstebrovej 7, Aulum, 7490, Denmark**  
-🔗 **LinkedIn:** *(to be added)*  
-🏢 **Fukura Capital Ltd** – [GitHub Organisation](https://github.com/fukuracapital)
-
----
-
-💬 *“I believe the future of IT infrastructure lies in secure, local, and efficient systems — independent of large cloud providers.”*
+### 🔧 **Previous Roles**
+- **Business Developer** – Bogzonen ApS (2018–2023)  
+- **Project Manager** – Nordic Clima Import ApS (2014–2017)  
+- **IT M**
