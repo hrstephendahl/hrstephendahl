@@ -53,4 +53,46 @@ London, United Kingdom
 ### 🔧 **Previous Roles**
 - **Business Developer** – Bogzonen ApS (2018–2023)  
 - **Project Manager** – Nordic Clima Import ApS (2014–2017)  
-- **IT M**
+- **IT Manager** – TBC Fragt ApS (2007–2011)  
+- **IT Chief** – AM-IT Partner A/S / Canon Business Center (2002–2004)  
+- **Facility Management Chief** – TJ Group A/S (1999–2002)  
+
+---
+
+## 📚 **Articles & Documentation**
+
+🧾 I regularly write about:
+- Running **AI workloads** on local hardware  
+- **Server optimisation** and performance tuning  
+- **Decentralised hosting** and data security  
+
+📘 Articles will be available here: [Articles Repository](#)
+
+---
+
+## 🌍 **Languages**
+| Language | Proficiency |
+|-----------|--------------|
+| 🇬🇧 English | Native |
+| 🇩🇰 Danish | Fluent |
+| 🇩🇪 German | Advanced |
+
+---
+
+## 📫 **Contact**
+
+📧 **stephendahl001@gmail.com**  
+📍 **Aulum, Denmark**  
+🔗 [LinkedIn](#) *(to be added)*  
+🏢 [Fukura Capital Ltd](https://github.com/fukuracapital)
+
+---
+
+## ⚡ **Quick Stats**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hrstephendahl&show_icons=true&theme=default)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrstephendahl&layout=compact&theme=default)
+
+---
+
+> 🧭 *“The future of IT belongs to secure, local, and efficient systems — independent of the cloud.”*
